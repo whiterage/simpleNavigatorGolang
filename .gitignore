@@ -1,6 +1,5 @@
 # Build output
-bin/
-simple_navigator
+/bin/
 
 # Generated Graphviz files
 *.dot
