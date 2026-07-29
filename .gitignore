@@ -1,0 +1,17 @@
+# Build output
+bin/
+simple_navigator
+
+# Generated Graphviz files
+*.dot
+
+# Test and coverage artifacts
+*.test
+*.out
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
